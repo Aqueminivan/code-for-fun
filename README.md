@@ -1,2 +1,1 @@
-# code-for-fun
-Just stuff written in various languages to test ideas.
+This is just stuff written in various languages to practice and learn.
